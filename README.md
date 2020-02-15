@@ -11,13 +11,13 @@ differences between the four.
 
 Included with the programming are graphs that show the dives and the comparison of SSP profiles. 
 
-a.In the charts, we could tell that there were more dives in the summer time as the depth change would tell us when the 
-CTD machines would go up and down.
+a.In the charts, we could tell that there were more dives in the deep profilers. You can tell the number of dives by the number 
+of times the depth returned to the intitial depth. 
 
-b. The max SSP is usually in the lowest depth from the lowest depth. It was not always the case as sometimes in the wintertime the highest ssp was in mid depth. 
+b. The max SSP is usually in the shallower depth in the ocean. It was not always the case as sometimes in the wintertime the highest ssp was in mid depth.
 
-c. In the nighttime the ssp profile was faster. I assume it is like that as there is less movement in the water and the water is  more calm
+c.In the nighttime the ssp profile was faster. I assume it is like that as there is less movement in the water and the water is  more calm
 
-d. In the summer time the ssp was faster as well.
+d. When comparing the graphs I could tell that the ssp profile in the summer usually had more dives. As well as had a smoother curve and faster overall ssp than in the winter. 
 
-e. It seems that the ssp in the winter was usually more stable as well as faster than in the summer. 
+e. The deeper profiles in the summer were more stable and consistent than in the winter time. It was harder to find data in the winter as there was not as many dives as in the summer. 
